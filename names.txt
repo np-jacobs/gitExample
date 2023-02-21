@@ -1,2 +1,3 @@
+role,NetID,LastName,FirstName
 boss,npjacobs,Jacobs,Nate
 employee,sahandel,Handel,Samuel
